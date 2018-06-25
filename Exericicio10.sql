@@ -1,0 +1,1 @@
+﻿select avg(ataque)'Media dos ataques' from pokemons

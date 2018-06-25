@@ -1,0 +1,1 @@
+﻿SELECT estado, cidade FROM cidadesDoBrasil
