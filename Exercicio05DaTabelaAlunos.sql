@@ -1,0 +1,1 @@
+﻿SELECT sum(nota_1) FROM alunos

@@ -1,0 +1,1 @@
+﻿SELECT CAST(AVG(nota_2) as numeric(15,2)) FROM alunos
